@@ -186,7 +186,7 @@ var ParticlePool = (function() {
 
         // رسم النص في الوسط
         context.fillStyle = "#ffffff";
-        context.font = "48px font-family";
+        context.font = "48px Monospace";
         context.textAlign = "center";
         context.textBaseline = "middle";
         context.fillText("love u lusy", canvas.width / 2, canvas.height / 2);
